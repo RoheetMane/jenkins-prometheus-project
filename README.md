@@ -32,3 +32,12 @@ Before starting, ensure you have:
 ```bash
 sudo apt update
 sudo apt upgrade -y
+
+
+---
+
+### 2️⃣ Launch EC2 (Ubuntu 22.04)
+Provision an EC2 instance on AWS with Ubuntu 22.04 and connect via SSH:
+```bash
+ssh -i mykey.pem ubuntu@<public-ip>
+
