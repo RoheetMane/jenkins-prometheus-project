@@ -41,7 +41,7 @@ sudo systemctl enable jenkins
 
 ---
 
-## 3. Install Jenkins for Automation
+## 4. Install Jenkins for Automation
 
 ```bash
 sudo apt update
