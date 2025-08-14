@@ -38,9 +38,9 @@ sudo apt-get install jenkins
 sudo systemctl start jenkins
 sudo systemctl enable jenkins
 
+---
 
-
-## 4. Install Docker and Run the App in a Container
+## **4. Install Docker and Run the App in a Container**
 
 sudo apt-get update
 sudo apt-get install docker.io -y
