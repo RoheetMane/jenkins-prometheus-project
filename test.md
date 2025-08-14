@@ -22,7 +22,7 @@
 
 ## 3. Install Jenkins for Automation
 
-```bash```
+```bash
 sudo apt update
 sudo apt install fontconfig openjdk-21-jre -y
 
@@ -36,5 +36,5 @@ https://pkg.jenkins.io/debian-stable binary/ | sudo tee \
 sudo apt-get update
 sudo apt-get install jenkins
 sudo systemctl start jenkins
-sudo systemctl enable jenkins
+sudo systemctl enable jenkins ```
 
